@@ -1,7 +1,6 @@
-name: flutter_xmpp
+name: flutter_xmpp_plugin
 description: xmpp for openfire
 version: 1.0.0
-author: elex <sfy921011@gmail.com>
 homepage: https://github.com/Elex92/flutter_xmpp.git
 
 environment:
